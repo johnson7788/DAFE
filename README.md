@@ -1,5 +1,7 @@
 # DAFE
 
+# 暂无代码的运行方式，推荐转到FaceBook 的XLM
+
 Code for
 
     @inproceedings{dou19emnlp,
